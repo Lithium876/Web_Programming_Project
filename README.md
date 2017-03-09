@@ -14,3 +14,8 @@ __Requirements:__
 __Preview:__
 
 ![Preview](IndividualProject/images/1.png)
+
+## Group Project
+
+Your team is to build a business service website for a company called: Dexterity Professionals Ltd (DPL). The company is providing services that are made up of the traits and skills of the creators of the website (i.e. the traits and skills of you, the team members).
+
