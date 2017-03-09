@@ -3,6 +3,7 @@
 ## Individual Project
 
 __Description__
+
 You are required to build a simple website that promotes the following topic: "Caribbean Sporting Ambassadors"
 
 __Requirements:__
