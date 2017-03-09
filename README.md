@@ -11,4 +11,4 @@ __Requirements:__
   * An individual who has excelled exceptionally in a sporting area in the past and
   * An individual who is currently excelling in a sporting area. 
   
-![Preview](images/1.png)
+![Preview](IndividualProject/images/1.png)
